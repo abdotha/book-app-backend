@@ -1,0 +1,6 @@
+/book_store_venv
+/__pycache__/
+/.vscode
+/.idea
+.env
+__pycache__
